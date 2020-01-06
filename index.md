@@ -1,7 +1,11 @@
 ## Welcome to TSC
 
+### Developer
+
+- IL-Ho Yang
+
 ### Projects
 
-- Railroad Hero (mobile game for iOS & Android, comming soon 2020)
+- [Railroad Hero](./railroadhero/product-page.md) (mobile game for iOS & Android, comming soon 2020)
 
 
