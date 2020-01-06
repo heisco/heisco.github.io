@@ -2,7 +2,7 @@
 
 - RELEASE DATE: Comming soon 2020
 - PLATFORM: iOS, Android
-- GENRE: Shooting, Puzzle
+- GENRE: Shooter, Puzzle
 - LANGUAGES: Korean, English
 
 ## ABOUT THIS GAME
