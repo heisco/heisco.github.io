@@ -1,6 +1,18 @@
-# Railroad Hero
+# RAILROAD HERO
 
-## Screenshots
+- RELEASE DATE: Comming soon 2020
+- PLATFORM: iOS, Android
+- GENRE: Shooting, Puzzle
+- LANGUAGES: Korean, English
+
+## ABOUT THIS GAME
+
+- Become a sheriff, kill zombies and rescue survivors.
+- Explore the mines in a mining cart.
+- Switch tracks and kill zombies with one shot.
+- Rescue survivors as companions or send them back to town.
+
+## SCREENSHOTS
 
 ![railroadhero_1](./imgs/railroadhero_1.png)
 ![railroadhero_2](./imgs/railroadhero_2.png)
