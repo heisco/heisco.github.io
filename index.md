@@ -2,11 +2,11 @@
 
 ### About us
 
-TSC(The Second Creator) is a game development team.
+TSC(The Second Creator) is a indie game development team.
 
 #### Developers
 
-- IL-Ho Yang
+- [IL-Ho Yang](./ilhoyang/developer-page.md)
 
 ### Projects
 
@@ -14,4 +14,4 @@ TSC(The Second Creator) is a game development team.
 
 ### Contact us
 
-Email: [heisco@gmail.com](heisco@gmail.com)
+E-mail: [heisco@gmail.com](mailto:heisco@gmail.com)
