@@ -16,4 +16,4 @@
   
 ## Personal projects
 
-- ["Letters from whitechappel (board game)" solver (python 2)](https://github.com/heisco/LFW_Solver/tree/master)
+- ["Letters from whitechappel (board game)" solver (python 2)](./LFW_Solver/readme.md)
