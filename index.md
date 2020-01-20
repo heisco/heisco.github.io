@@ -1,7 +1,7 @@
 ---
 title: Welcome to TSC
 layout: page
-feature_image: "feature_image.jpg"
+feature_image: "image_feature.jpg"
 feature_text: |
   ## TSC
 ---
