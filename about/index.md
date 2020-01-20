@@ -1,5 +1,6 @@
 ---
 layout: page
+collectionpage: posts
 title: About us
 ---
 

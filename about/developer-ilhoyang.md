@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Developer: IL-Ho Yang
+collectionpage: posts
+title: Developer - IL-Ho Yang
 ---
 
 # Technology stack

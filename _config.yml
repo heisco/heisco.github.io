@@ -50,7 +50,7 @@ collections:
   posts:
     title: Posts
     output: true
-    description: "Devlog"
-    feature_text: |
-      Welcome to our devlog
+    description: "DEVLOG"
     feature_image: "https://secondcreator.com/image_feature.jpg"
+    feature_text: |
+      ## Welcome to our DEVLOG
