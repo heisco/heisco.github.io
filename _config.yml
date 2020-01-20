@@ -25,7 +25,7 @@ baseurl: ''
 title: 'TSC'
 description: 'The Second Creator'
 permalink: pretty
-logo: "https://image_logo.jpg"
+logo: "https://secondcreator.com/image_logo.jpg"
 
 # Pagination
 paginate: 5
@@ -53,4 +53,4 @@ collections:
     description: "Devlog"
     feature_text: |
       Welcome to our devlog
-    feature_image: "https://image_feature.jpg"
+    feature_image: "https://secondcreator.com/image_feature.jpg"
