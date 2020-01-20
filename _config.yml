@@ -36,7 +36,7 @@ navigation_header:
 - title: Home
   url: /
 - title: About
-  url: /
+  url: /about/
 - title: Blog
   url: /blog/
 
