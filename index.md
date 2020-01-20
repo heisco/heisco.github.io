@@ -1,9 +1,9 @@
 ---
-title: Welcome to my website
+title: Welcome to TSC
 layout: page
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "feature_image.jpg"
 feature_text: |
-  ## Hello world
+  ## TSC
 ---
 
-There isn't much going on here yet, but watch this space
+TSC(The Second Creator) is a indie game development team.
