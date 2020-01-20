@@ -51,10 +51,10 @@ collections:
     output: true
     feature_image: "https://secondcreator.com/image_feature.jpg"
     feature_text: |
-      # ABOUT US
+      # ABOUT TSC
   posts:
     title: Posts
     output: true
     feature_image: "https://secondcreator.com/image_feature.jpg"
     feature_text: |
-      # Welcome to our DEVLOG
+      # DEVLOG
