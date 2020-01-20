@@ -20,4 +20,4 @@ title: Developer - IL-Ho Yang
   
 ## Personal projects
 
-- ["Letters from whitechappel (board game)" solver (python 2)](./LFW_Solver/readme.md)
+- ["Letters from whitechappel (board game)" solver (python 2)](./LFW_Solver.md)

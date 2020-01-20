@@ -37,7 +37,7 @@ navigation_header:
   url: /
 - title: About
   url: /about/
-- title: Blog
+- title: Devlog (Korean)
   url: /blog/
 
 # Footer nav
