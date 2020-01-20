@@ -1,16 +1,17 @@
 ---
 layout: page
-collectionpage: posts
-title: Developer - IL-Ho Yang
+feature_image: "https://secondcreator.com/image_feature.jpg"
+feature_text: |
+  # Developer: IL-Ho Yang
 ---
 
-# Technology stack
+## Technology stack
 
 - Python 2 / 3
 - Keras / Tensorflow
 - Unreal engine 4
 
-# Interests
+## Interests
 
 - Pattern recognition
 - Machine learning
@@ -18,6 +19,6 @@ title: Developer - IL-Ho Yang
   - Procedural game content generation
   - Fast approximation of simulation
   
-# Personal projects
+## Personal projects
 
 - ["Letters from whitechappel (board game)" solver (python 2)](./LFW_Solver/readme.md)
