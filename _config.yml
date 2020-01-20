@@ -47,10 +47,14 @@ navigation_footer:
 
 # Collections
 collections:
+  abouts:
+    output: true
+    feature_image: "https://secondcreator.com/image_feature.jpg"
+    feature_text: |
+      # ABOUT US
   posts:
     title: Posts
     output: true
-    description: "DEVLOG"
     feature_image: "https://secondcreator.com/image_feature.jpg"
     feature_text: |
       # Welcome to our DEVLOG

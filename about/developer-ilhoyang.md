@@ -1,9 +1,9 @@
 ---
 layout: page
-feature_image: "https://secondcreator.com/image_feature.jpg"
-feature_text: |
-  # Developer: IL-Ho Yang
+collectionpage: abouts
 ---
+
+# Developer: IL-Ho Yang
 
 ## Technology stack
 

@@ -1,9 +1,9 @@
 ---
 layout: page
-feature_image: "https://secondcreator.com/image_feature.jpg"
-feature_text: |
-  # Personal project: Letters from whitechapel solver
+collectionpage: abouts
 ---
+
+# Personal project: Letters from whitechapel solver
 
 ## About this script
 

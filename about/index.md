@@ -1,8 +1,6 @@
 ---
 layout: page
-feature_image: "https://secondcreator.com/image_feature.jpg"
-feature_text: |
-  # About us
+collectionpage: abouts
 ---
 
 TSC(The Second Creator) is a indie game development team.
