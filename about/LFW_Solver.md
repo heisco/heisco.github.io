@@ -1,9 +1,8 @@
 ---
 layout: page
 collectionpage: abouts
+title: Personal project - Letters from whitechapel solver
 ---
-
-# Personal project: Letters from whitechapel solver
 
 ## About this script
 

@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Project: RAILROAD HERO
+collectionpage: abouts
+title: RAILROAD HERO
 ---
 
 - RELEASE DATE: Comming soon 2020

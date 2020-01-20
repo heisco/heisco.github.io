@@ -1,9 +1,8 @@
 ---
 layout: page
 collectionpage: abouts
+title: Developer - IL-Ho Yang
 ---
-
-# Developer: IL-Ho Yang
 
 ## Technology stack
 
