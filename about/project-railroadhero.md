@@ -23,9 +23,9 @@ title: RAILROAD HERO
 
 # SCREENSHOTS
 
-![railroadhero_1](./imgs/railroadhero_1.png)
-![railroadhero_2](./imgs/railroadhero_2.png)
-![railroadhero_3](./imgs/railroadhero_3.png)
-![railroadhero_4](./imgs/railroadhero_4.png)
-![railroadhero_5](./imgs/railroadhero_5.png)
-![railroadhero_6](./imgs/railroadhero_6.png)
+![railroadhero_1](./imgs/railroadhero_01.jpg)
+![railroadhero_2](./imgs/railroadhero_02.jpg)
+![railroadhero_3](./imgs/railroadhero_03.jpg)
+![railroadhero_4](./imgs/railroadhero_04.jpg)
+![railroadhero_5](./imgs/railroadhero_05.jpg)
+![railroadhero_6](./imgs/railroadhero_06.jpg)
