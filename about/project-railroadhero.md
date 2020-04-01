@@ -3,6 +3,7 @@ layout: page
 collectionpage: abouts
 title: RAILROAD HERO
 ---
+![railroadhero_icon](./imgs/railroadhero_icon.png)
 
 - RELEASE DATE: March 2020
 - PLATFORM: iOS, Android
