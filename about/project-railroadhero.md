@@ -11,8 +11,8 @@ title: RAILROAD HERO
 
 # DOWNLOAD
 
+[![app_store_badge](./imgs/App-store-badge.png)](https://apps.apple.com/us/app/%EB%A0%88%EC%9D%BC%EB%A1%9C%EB%93%9C-%ED%9E%88%EC%96%B4%EB%A1%9C/id1504370570?l=ko&ls=1)
 [![google_play_badge](./imgs/google-play-badge.png)](https://play.google.com/store/apps/details?id=com.TSC.RailHero)
-[![app_store_badge](./imgs/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg)](https://apps.apple.com/us/app/%EB%A0%88%EC%9D%BC%EB%A1%9C%EB%93%9C-%ED%9E%88%EC%96%B4%EB%A1%9C/id1504370570?l=ko&ls=1)
 
 # ABOUT THIS GAME
 
