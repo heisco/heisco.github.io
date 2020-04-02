@@ -38,6 +38,7 @@ title: RAILROAD HERO
 On iOS, it's saved under "CG_Ship/Saved/SaveGames" in the document you can see on iTunes.
 On Android, it is saved under "UE4Game/CG_Ship/Saved/SaveGames"
 
+
 - Q> After updating, the achievement has been reset!
 - A> The save path for save files may have changed after updating. 
 Find the old save files in the storage ("Autosave_system_v1.sav" and "Autosave_session_v1.sav") and move them to the correct path(/CG_Ship/Saved/SaveGames). 
