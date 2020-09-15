@@ -6,13 +6,13 @@ title: 타이니 라이징
 ![tinyrising_icon](./imgs/tinyrising_icon.png)
 
 - 출시일: 2020년 9월
-- 플랫폼: iOS(준비 중), Android(준비 중)
+- 플랫폼: iOS(준비 중), Android
 - 장르: 캐주얼, 벽돌깨기, 핀볼
 - 언어: 한국어, 영어
 
 # 다운로드
 
-준비 중
+[![google_play_badge](./imgs/google-play-badge.png)](https://play.google.com/store/apps/details?id=com.TSC.TinyRising)
 
 # 게임 소개
 
