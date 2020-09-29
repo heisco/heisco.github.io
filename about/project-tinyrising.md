@@ -6,12 +6,13 @@ title: TINY RISING
 ![tinyrising_icon](./imgs/tinyrising_icon.png)
 
 - RELEASE DATE: September 2020
-- PLATFORM: iOS(comming soon), Android
+- PLATFORM: iOS, Android
 - GENRE: Casual, Breakout, Pinball
 - LANGUAGES: Korean, English
 
 # DOWNLOAD
 
+[![app_store_badge](./imgs/App-store-badge.png)](https://apps.apple.com/app/id1527502421)
 [![google_play_badge](./imgs/google-play-badge.png)](https://play.google.com/store/apps/details?id=com.TSC.TinyRising)
 
 # ABOUT THIS GAME
