@@ -10,12 +10,14 @@ title: TINY RISING
 - GENRE: Casual, Breakout, Pinball
 - LANGUAGES: Korean, English
 
-# DOWNLOAD: Tiny Rising (Free Version)
+# DOWNLOAD
+
+## Tiny Rising (Free Version)
 
 [![app_store_badge](./imgs/App-store-badge.png)](https://apps.apple.com/app/id1527502421)
 [![google_play_badge](./imgs/google-play-badge.png)](https://play.google.com/store/apps/details?id=com.TSC.TinyRising)
 
-# DOWNLOAD: Tiny Rising VIP (Paid Version)
+## Tiny Rising VIP (Paid Version)
 
 [![google_play_badge](./imgs/google-play-badge.png)](https://play.google.com/store/apps/details?id=com.TSC.TinyRisingP)
 

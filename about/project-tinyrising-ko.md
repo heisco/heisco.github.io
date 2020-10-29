@@ -10,12 +10,14 @@ title: 타이니 라이징
 - 장르: 캐주얼, 벽돌깨기, 핀볼
 - 언어: 한국어, 영어
 
-# 타이니 라이징 다운로드 (무료 버전)
+# 다운로드
+
+## 타이니 라이징 (무료 버전)
 
 [![app_store_badge](./imgs/App-store-badge.png)](https://apps.apple.com/app/id1527502421?l=ko)
 [![google_play_badge](./imgs/google-play-badge.png)](https://play.google.com/store/apps/details?id=com.TSC.TinyRising)
 
-# 타이니 라이징 VIP 다운로드 (유료 버전)
+## 타이니 라이징 VIP (유료 버전)
 
 [![google_play_badge](./imgs/google-play-badge.png)](https://play.google.com/store/apps/details?id=com.TSC.TinyRisingP)
 
