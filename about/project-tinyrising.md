@@ -50,7 +50,7 @@ title: TINY RISING
     - Android (Tiny Rising, Free Version): It's saved under "UE4Game/TR_Dev/TR_Dev/Saved/SaveGames"
     - Android (Tiny Rising VIP, Paid Version): It's saved under "UE4Game/TRP_Dev/TRP_Dev/Saved/SaveGames"
 - Q> While playing the free version (Tiny Rising), I purchased the paid version (Tiny Rising VIP), but the save files cannot be linked!
-   -A> The function to automatically link save files is not supported. Sorry.
+   - A> The function to automatically link save files is not supported. Sorry.
      - By manually copying and pasting the save file, you can continue from the point you were playing in another version.
 - Q> After updating, the achievement has been reset!
   - A> The save path for save file may have changed after updating. 
