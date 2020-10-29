@@ -10,10 +10,14 @@ title: TINY RISING
 - GENRE: Casual, Breakout, Pinball
 - LANGUAGES: Korean, English
 
-# DOWNLOAD
+# DOWNLOAD: Tiny Rising (Free Version)
 
 [![app_store_badge](./imgs/App-store-badge.png)](https://apps.apple.com/app/id1527502421)
 [![google_play_badge](./imgs/google-play-badge.png)](https://play.google.com/store/apps/details?id=com.TSC.TinyRising)
+
+# DOWNLOAD: Tiny Rising VIP (Paid Version)
+
+[![google_play_badge](./imgs/google-play-badge.png)](https://play.google.com/store/apps/details?id=com.TSC.TinyRisingP)
 
 # ABOUT THIS GAME
 
@@ -33,13 +37,20 @@ title: TINY RISING
 
 # FAQ
 
+-Q> What is the difference between the free version (Tiny Rising) and the paid version (Tiny Rising VIP)?
+   -A> There are less ads in the paid version.
+     - In the free version, interstitial ads sometimes appear before the stage starts.
+     - Interstitial ads do not appear in the paid version.
+     - Rewarded ads appear in both free and paid versions.
 - Q> Where is save file stored?
-- A> The save file is named "autosave_v1.sav"
-On iOS, it's saved under "TR_Dev/Saved/SaveGames" in the document you can see on iTunes.
-On Android, it is saved under "UE4Game/TR_Dev/Saved/SaveGames"
-
-
+  - A> The save file is named "autosave_v1.sav"
+    - iOS (Tiny Rising, Free Version): It's saved under "TR_Dev/Saved/SaveGames" in the document you can see on iTunes.
+    - Android (Tiny Rising, Free Version): It's saved under "UE4Game/TR_Dev/TR_Dev/Saved/SaveGames"
+    - Android (Tiny Rising VIP, Paid Version): It's saved under "UE4Game/TRP_Dev/TRP_Dev/Saved/SaveGames"
+-Q> While playing the free version (Tiny Rising), I purchased the paid version (Tiny Rising VIP), but the save files cannot be linked!
+   -A> The function to automatically link save files is not supported. Sorry.
+     - By manually copying and pasting the save file, you can continue from the point you were playing in another version.
 - Q> After updating, the achievement has been reset!
-- A> The save path for save file may have changed after updating. 
-Find the old save file in the storage ("autosave_v1.sav") and move it to the correct path(/TR_Dev/Saved/SaveGames). 
-Sorry for the inconvenience.
+  - A> The save path for save file may have changed after updating. 
+    - Find the old save file in the storage ("autosave_v1.sav") and move it to the correct path.
+    - Sorry for the inconvenience.
