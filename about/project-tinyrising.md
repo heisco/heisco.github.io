@@ -39,8 +39,8 @@ title: TINY RISING
 
 # FAQ
 
--Q> What is the difference between the free version (Tiny Rising) and the paid version (Tiny Rising VIP)?
-   -A> There are less ads in the paid version.
+- Q> What is the difference between the free version (Tiny Rising) and the paid version (Tiny Rising VIP)?
+   - A> There are less ads in the paid version.
      - In the free version, interstitial ads sometimes appear before the stage starts.
      - Interstitial ads do not appear in the paid version.
      - Rewarded ads appear in both free and paid versions.
